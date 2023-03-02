@@ -1,2 +1,4 @@
 This is a.txt file data
 This is appended line for a.txt
+This is 3rd line of a.txt
+This is 4th line appended to a.txt file
