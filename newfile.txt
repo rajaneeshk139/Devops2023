@@ -1,0 +1,2 @@
+This is the first appened line of newfile.txt
+This is seconf line appened to the newfile.txt

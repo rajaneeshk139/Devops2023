@@ -1,0 +1,2 @@
+This is a.txt file data
+This is appended line for a.txt
