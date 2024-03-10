@@ -1,1 +1,2 @@
 2nd line added to the dummy.txt file
+3rd line added to the this file
